@@ -1,4 +1,4 @@
-<img width="346" height="192" alt="github_readmebanner_Hi_This_is_Jinheng_image_1" src="https://github.com/user-attachments/assets/5f557377-cfc6-4b22-b266-aae06093d74b" />
+<img width="346" height="192" alt="hi" src="https://github.com/user-attachments/assets/250e4878-bb58-4983-9c98-eb858e01b6a5" />
 
 
 Ph.D. in CS / AI Infra / MLSys / ex-Microsoft
